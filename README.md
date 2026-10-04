@@ -1,11 +1,11 @@
 <div align="center">
 
   <!-- Header Banner -->
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,25,30&height=220&section=header&text=Dio%20Dwi%20Prassetyo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Bot%20Architect%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,18,25,30&height=220&section=header&text=Dio%20Dwi%20Prassetyo&fontSize=48&fontColor=ffffff&animation=fadeIn&fontAlignY=38&desc=%E2%9A%A1%20Full-Stack%20Developer%20%7C%20Software%20Engineer%20%7C%20Tech%20Enthusiast&descAlignY=60&descAlign=50" width="100%" alt="Header" />
 
   <!-- Dynamic Typing Bio -->
   <a href="https://github.com/DioDwiPrassetyo">
-    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=650&height=50&lines=%F0%9F%91%8B+Hello+World!+I'm+Dio+Dwi+Prassetyo;%F0%9F%9A%80+Full-Stack+%26+Discord+Bot+Architect;%F0%9F%A4%96+Building+Intelligent+Bots+%26+Modern+Dashboards;%E2%98%95+Crafting+Clean+Code+Powered+by+Coffee+%26+Passion" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&multiline=false&width=700&height=50&lines=%F0%9F%91%8B+Hello+World!+I'm+Dio+Dwi+Prassetyo;%F0%9F%9A%80+Full-Stack+Developer+%26+Software+Engineer;%F0%9F%92%BB+Crafting+Modern+Web%2C+Mobile+%26+Bot+Solutions;%F0%9F%93%B1+React+%E2%80%A2+TypeScript+%E2%80%A2+Node.js+%E2%80%A2+PHP+%E2%80%A2+Python;%E2%98%95+Turning+Coffee+into+Scalable+%26+Impactful+Code" alt="Typing SVG" />
   </a>
 
   <br/>
@@ -15,11 +15,11 @@
     <a href="mailto:diodwiprassetyo01@gmail.com">
       <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail" />
     </a>
-    <a href="https://discord.com">
-      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
-    </a>
     <a href="https://github.com/DioDwiPrassetyo">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
+    </a>
+    <a href="https://discord.com">
+      <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" />
     </a>
   </p>
 
@@ -32,19 +32,27 @@
 ```javascript
 const dio = {
   pronouns: "He/Him",
-  role: "Full-Stack & Bot Developer",
-  code: ["JavaScript", "TypeScript", "Node.js", "React", "Python"],
-  architecture: ["Discord.js", "REST APIs", "Microservices", "Event-Driven"],
-  database: ["MongoDB", "Firebase", "SQLite"],
-  currentFocus: "Crafting scalable bot ecosystems & ultra-responsive web dashboards",
-  coffeePerDay: "∞"
+  role: "Full-Stack Developer & Software Engineering Enthusiast",
+  languages: ["JavaScript", "TypeScript", "PHP", "Python", "HTML5/CSS3"],
+  stack: {
+    frontend: ["React.js", "Vite", "TailwindCSS", "Bootstrap"],
+    backend: ["Node.js", "Express.js", "PHP API", "REST APIs"],
+    database: ["MongoDB", "Firebase", "MySQL"]
+  },
+  interests: [
+    "Modern Web Applications",
+    "Mobile & Cross-Platform Development",
+    "Decision Support Systems (DSS / SPK)",
+    "Automation & Interactive Bot Ecosystems"
+  ],
+  status: "🚀 Constantly exploring new frameworks & crafting creative solutions"
 };
 ```
 
-* 🚀 **Currently Building:** [Bot-discord](https://github.com/DioDwiPrassetyo/Bot-discord) – Sistem Discord Bot modular canggih dengan 135+ fitur (Economy, RPG, Music, Moderation, & Realtime Web Dashboard).
-* 🌱 **Continuously Learning:** Modern Cloud Architectures, Realtime WebSockets, and Generative AI workflows.
-* 💬 **Ask me about:** JavaScript / Node.js, Discord API, Web Development, and Automation.
-* ⚡ **Fun Fact:** *Coding without coffee is like running code without semicolons — it might work, but why risk it?* 😉
+* 🌐 **Web & Mobile Engineering:** Berpengalaman mengembangkan aplikasi web responsif dan aplikasi perangkat bergerak (React, TypeScript, PHP, Node.js).
+* 🎯 **Problem Solving & Systems:** Tertarik pada perancangan Sistem Pendukung Keputusan (SPK/DSS), visualisasi data, dan manajemen API.
+* 🤖 **Automation & Ecosystems:** Membangun bot interaktif dan dashboard realtime dengan arsitektur multi-modul.
+* ⚡ **Prinsip Utama:** *Menghadirkan kode yang terstruktur, performa tinggi, dan antarmuka pengguna yang memikat.*
 
 ---
 
@@ -53,45 +61,73 @@ const dio = {
 <div align="center">
 
   <!-- Skill Icons Dynamic -->
-  <img src="https://skillicons.dev/icons?i=js,ts,nodejs,express,react,vite,tailwind,html,css&perline=9" alt="Languages & Frontend" />
+  <img src="https://skillicons.dev/icons?i=js,ts,php,python,nodejs,express,react,vite,tailwind,html,css&perline=11" alt="Languages & Frontend" />
   <br/>
-  <img src="https://skillicons.dev/icons?i=mongodb,firebase,git,github,postman,vscode,docker,linux,npm&perline=9" alt="Backend & Tools" />
+  <img src="https://skillicons.dev/icons?i=mongodb,firebase,mysql,git,github,postman,vscode,docker,linux,npm&perline=10" alt="Backend & Tools" />
 
 </div>
 
 <br/>
 
 <details>
-  <summary><b>🔍 Rincian Teknologi & Peralatan</b></summary>
+  <summary><b>🔍 Rincian Kategori Teknologi</b></summary>
   <br/>
 
   | Kategori | Teknologi |
   | :--- | :--- |
-  | **Languages** | `JavaScript (ES6+)`, `TypeScript`, `Node.js`, `HTML5`, `CSS3` |
-  | **Frontend & UI** | `React.js`, `Vite`, `TailwindCSS`, `Glassmorphism`, `Lucide Icons` |
-  | **Backend & Bot** | `Discord.js v14`, `Express.js`, `REST APIs`, `EJS / Webhooks` |
-  | **Databases & Cache** | `MongoDB`, `Mongoose`, `Firebase Cloud Firestore`, `JSON Storage` |
-  | **DevOps & Tools** | `Git`, `GitHub Actions`, `Postman`, `VS Code`, `Docker`, `Linux` |
+  | **Core Languages** | `JavaScript (ES6+)`, `TypeScript`, `PHP`, `Python`, `HTML5`, `CSS3` |
+  | **Frontend Frameworks** | `React.js`, `Vite`, `TailwindCSS`, `Bootstrap`, `Modern UI/UX` |
+  | **Backend & Services** | `Node.js`, `Express.js`, `PHP API`, `RESTful APIs`, `WebSockets` |
+  | **Databases** | `MongoDB / Mongoose`, `Firebase Cloud`, `MySQL / Relational DB` |
+  | **Dev & Tools** | `Git`, `GitHub Actions`, `Postman`, `VS Code`, `Docker`, `Linux` |
 
 </details>
 
 ---
 
-### 🌟 Featured Project
+### 🚀 Featured Repositories & Projects
+
+Berikut adalah beberapa proyek pilihan yang mencakup aplikasi web, aplikasi mobile, sistem keputusan, hingga automasi:
 
 <div align="center">
 
-  <a href="https://github.com/DioDwiPrassetyo/Bot-discord">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DioDwiPrassetyo&repo=Bot-discord&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" alt="Featured Bot Discord" />
+  <!-- Project Pins Row 1 -->
+  <a href="https://github.com/DioDwiPrassetyo/Daily_Pocket">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DioDwiPrassetyo&repo=Daily_Pocket&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Daily Pocket" />
+  </a>
+  <a href="https://github.com/DioDwiPrassetyo/MovieApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DioDwiPrassetyo&repo=MovieApp&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" alt="MovieApp" />
+  </a>
+
+  <br/><br/>
+
+  <!-- Project Pins Row 2 -->
+  <a href="https://github.com/DioDwiPrassetyo/Foodie">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DioDwiPrassetyo&repo=Foodie&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" alt="Foodie" />
+  </a>
+  <a href="https://github.com/DioDwiPrassetyo/WeatherApp">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DioDwiPrassetyo&repo=WeatherApp&theme=tokyonight&border_radius=12&title_color=38bdf8&icon_color=a855f7&text_color=94a3b8&bg_color=0f172a" width="48%" alt="WeatherApp" />
   </a>
 
 </div>
 
-> 🤖 **Bot-discord:** Multi-purpose Discord Bot engine dengan arsitektur multi-agent, modul Economy & RPG interaktif, Voice Music player, Moderation Shield, dan Web Dashboard v3 berbasis React.
+<br/>
+
+#### 📌 Sorotan Portofolio Proyek:
+
+| Proyek | Kategori | Deskripsi Singkat | Tech Stack |
+| :--- | :--- | :--- | :--- |
+| 💳 **[Daily_Pocket](https://github.com/DioDwiPrassetyo/Daily_Pocket)** | Mobile / Finance | Aplikasi pelacak keuangan harian dan manajemen dompet digital yang rapi dan mudah digunakan. | `TypeScript` `Mobile App` |
+| 🎬 **[MovieApp](https://github.com/DioDwiPrassetyo/MovieApp)** | Web App / Entertainment | Katalog film interaktif & eksplorasi informasi sinema dengan integrasi dynamic API (v2 in development). | `React` `JavaScript` `REST API` |
+| 🍽️ **[Foodie](https://github.com/DioDwiPrassetyo/Foodie)** & **[RestoYou](https://github.com/DioDwiPrassetyo/RestoYou)** | Web Platform / F&B | Sistem reservasi meja restoran & katalog kuliner interaktif dengan alur pemesanan efisien. | `JavaScript` `Web App` `UI/UX` |
+| 🚗 **[SPK-Kendaraan-Operasional](https://github.com/DioDwiPrassetyo/SPK-Kendaraan-Operasional)** | Decision Support | Sistem Pendukung Keputusan (DSS) terstruktur untuk menentukan prioritas kendaraan operasional. | `JavaScript` `Algoritma SPK` |
+| 🌤️ **[WeatherApp](https://github.com/DioDwiPrassetyo/WeatherApp)** | Utility / Geolocation | Aplikasi prakiraan cuaca real-time dengan tampilan visual kondisi cuaca dan indikator suhu. | `JavaScript` `Weather API` |
+| ☕ **[CoffeeShop](https://github.com/DioDwiPrassetyo/CoffeeShop)** | Showcase / Landing | Modern responsive landing page & menu showcase untuk bisnis Coffee Shop. | `HTML5` `CSS3` `JavaScript` |
+| 🤖 **[Bot-discord](https://github.com/DioDwiPrassetyo/Bot-discord)** | Ecosystem & Automation | Multi-agent Discord bot dengan 135+ fitur (Economy, RPG, Music, Moderasi) & Realtime Web Dashboard. | `Node.js` `React` `MongoDB` |
 
 ---
 
-### 📊 GitHub Analytics & Streak
+### 📊 GitHub Analytics & Streak Tracker
 
 <div align="center">
 
@@ -108,7 +144,7 @@ const dio = {
 
 ---
 
-### 🐍 Contribution Activity Snake
+### 🐍 GitHub Contribution Activity Snake
 
 <div align="center">
 
